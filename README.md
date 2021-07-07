@@ -5,6 +5,6 @@ So, avoiding the spread of this virus need some precautionary steps to be taken 
 Among these two precautions the mask wearing is considered as the important factor for the spread of COVID 19 virus because these droplets can land on any surface. 
 So, to keep track of the people that are wearing mask or not is more important. Here I have presented a face mask detector that is able to detect any type of mask.
 
-![Image 1](https://github.com/sarthakmishraa/face_mask_detector/img_github1.png)
+![Image 1](https://github.com/sarthakmishraa/face_mask_detector/blob/main/img_github1.PNG)
 
-![Image 2](https://github.com/sarthakmishraa/face_mask_detector/img_github2.png)
+![Image 2](https://github.com/sarthakmishraa/face_mask_detector/blob/main/img_github2.PNG)
