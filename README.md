@@ -16,7 +16,9 @@ Association : keras, numpy, cv2, datetime.
 After deployment you can use this at entry gate to check if your staff is wearing mask or not.
 
 WITH MASK
+
 ![Image 1](https://github.com/sarthakmishraa/face_mask_detector/blob/main/img_github1.PNG)
 
 WITHOUT MASK
+
 ![Image 2](https://github.com/sarthakmishraa/face_mask_detector/blob/main/img_github2.PNG)
