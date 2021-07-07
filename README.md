@@ -7,4 +7,4 @@ So, to keep track of the people that are wearing mask or not is more important. 
 
 ![Image 1](img_github1.png)
 
-![Image 2](img_github2.png)
+![Image 2]("img_github2.png")
